@@ -1,0 +1,291 @@
+[
+  {
+    "question": {
+      "ask": "Fråga 1, Reser du ofta?",
+      "1": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 2, Tycker du om att motionera?",
+      "1": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 3, Hur bor du? Välj 1 för villa med tomt eller 2 för lägenhet.",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 4, Vill du ha ett sällskapligt djur?",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 5, Är du eller någon annan i hushållet hemma mycket om dagarna?",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 6, Har du råd att lägga över 1000;-/månaden på djurfoder, burunderlag, kattsand, försäkringar, veterinärbesök osv?",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 7, Gillar du att promenera utomhus sena kvällar?",
+      "1": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 8, Vill du kunna göra aktiviteter med ditt husdjur, exmpelvis träna på hinderbanor osv",
+      "1": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 9, Om du har en tomt, plågas du av möss eller andra skadedjur? Om du inte har tomt, välj nej.",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 10, Kommer djuret ha en kompis, eller flera, i samma djurslag?",
+      "1": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 1
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 0
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 11, Har du familjemedlemmar/vänner utanför hushållet som är pälsdjursallergiker?",
+      "1": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 12, Är du morgonpigg?",
+      "1": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 13, Vill du ha det tyst runt om dig?",
+      "1": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 14, Gillar du pälsvård?",
+      "1": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 15, Gillar du grönsaker?",
+      "1": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 16, Har du plats för en kattlåda och klösträd i ditt hem?",
+      "1": {
+        "Dog": 0,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 1
+      }
+    }
+  },
+  {
+    "question": {
+      "ask": "Fråga 17, Har en kanin möjlighet att gräva i jord hos dig?",
+      "1": {
+        "Dog": 0,
+        "Cat": 0,
+        "Rabbit": 1,
+        "Fish": 0
+      },
+      "2": {
+        "Dog": 1,
+        "Cat": 1,
+        "Rabbit": 0,
+        "Fish": 1
+      }
+    }
+  }
+]
