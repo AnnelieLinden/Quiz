@@ -120,9 +120,9 @@
   },
   {
     "question": {
-      "ask": "Fråga 8, Vill du kunna göra aktiviteter med ditt husdjur, exmpelvis träna på hinderbanor osv",
+      "ask": "Fråga 8, Vill du kunna träna ditt djur på exempelvis hinderbanor, dresyr eller olika kommandon?",
       "1": {
-        "Dog": 1,
+        "Dog": 2,
         "Cat": 0,
         "Rabbit": 1,
         "Fish": 0
